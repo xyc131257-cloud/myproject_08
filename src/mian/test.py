@@ -1,3 +1,3 @@
-message = "Hello from main branch"
+message = "Hello"
 print(message)
 
